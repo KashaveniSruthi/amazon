@@ -1,4 +1,5 @@
 **Amazon Clone Website**
+
 Welcome to the Amazon Clone Website! This project is a beginner-friendly clone of Amazon, designed to help you improve your HTML and CSS skills. The site is styled to resemble the original Amazon website, offering an excellent learning experience for web development enthusiasts.
 
 **Features**
